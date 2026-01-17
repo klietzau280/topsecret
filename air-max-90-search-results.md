@@ -84,9 +84,97 @@ All stores below are located in **Independence Mall** at **3500 Oleander Drive, 
 - [DICK'S Sporting Goods Wilmington Locations](https://stores.dickssportinggoods.com/nc/wilmington/)
 - [Nike in Wilmington, NC](https://www.locally.com/buy/nike/in/wilmington-nc)
 
+## Online Shopping Options (Ships to Wilmington, NC)
+
+### eBay
+- **Inventory:** 2,971 Nike Air Max 90 listings in size 11
+- **Total Listings:** 15,790 "Buy It Now" listings across all sizes
+- **Shipping:** Many listings offer "Ships today if you order now"
+- **Colorways Found:**
+  - [Nike Air Max 90 Neon](https://www.ebay.com/b/nike-air-max-90-neon/bn_7024755168)
+  - [Nike Air Max 90 Essential Red](https://www.ebay.com/b/Nike-Air-Max-90-Essential-Red/15709/bn_7119096018)
+  - [Nike Air Max 90 Hyper Royal (Blue)](https://www.ebay.com/b/Nike-Air-Max-90-Hyper-Royal/15709/bn_7118669169)
+  - [Nike Air Max 90 Black Blue](https://www.ebay.com/b/Nike-Air-Max-90-Black-Blue/15709/bn_7118653139)
+  - [Nike Air Max 90 Essential Gym Red](https://www.ebay.com/b/Nike-Air-Max-90-Essential-Gym-Red/15709/bn_7119105386)
+  - [Nike Air Max 90 Green](https://www.ebay.com/b/Nike-Air-Max-90-Green-Womens-Sneakers/95672/bn_7022451224)
+- **Link:** [eBay Nike Air Max 90 Size 11 Men's](https://www.ebay.com/b/Nike-Air-Max-90-Mens-Sneakers/15709/bn_98034913)
+
+### Amazon
+- **Available Colorways in Size 11:**
+  - [Nike Air Max 90 Premium Coconut Milk/Vintage Green/Black/Dark Team Red](https://www.amazon.com/Nike-Premium-HQ3609-113-Coconut-Vintage/dp/B0DMG4NK1H)
+  - [Nike Air Max 90 Premium Men's Shoes Size-11](https://www.amazon.com/Nike-Premium-Mens-Shoes-Size-11/dp/B0D95MX7ZF)
+  - Various other colorways available
+- **Shipping:** Amazon Prime eligible with free shipping and returns
+- **Link:** [Amazon Nike Air Max 90 Men Size 11](https://www.amazon.com/s?k=nike+air+max+90+men+size+11)
+
+### StockX
+- **Current 2026 Releases:**
+  - Nike Air Max 90 Valentine's Day University Red (2026) - Releasing January 30, 2026
+  - Nike Air Max 90 Infrared 3M (2026) - Spring 2026 release, $150 retail
+- **Note:** StockX is a marketplace for authenticated sneakers
+
+## January 2026 Colorway Releases
+
+### Available Now (January 17, 2026)
+1. **Nike Air Max 90 "Lucky Charms"**
+   - Colorway: All-white with gold charm
+   - Updated: January 2, 2026
+   - Retailers: Nike, Foot Locker, Finish Line, Hibbett
+
+2. **Nike Air Max 90 "Coconut Milk/Vintage Green"**
+   - Colorway: Coconut Milk/Vintage Green/Black/Dark Team Red
+   - Available on Amazon in size 11
+
+### Coming Soon
+3. **Nike Air Max 90 Valentine's Day Pack** - **JANUARY 30, 2026**
+   - Colorways: Triple Black and University Red
+   - Features: Monochrome repeating heart fabric on every panel
+   - Retailers: Nike, Foot Locker, select retailers
+
+4. **Nike Air Max 90 "Infrared 3M"** - **SPRING 2026**
+   - Retail Price: $150
+   - Features: 3M reflective details
+   - Retailers: Nike and select retailers
+
+## Colored Air Max 90s Currently Available Online
+
+Based on web research, these colored options are available in size 11:
+
+### Blue Colorways:
+- Hyper Royal
+- Black/Blue combinations
+- Thunder Blue/Racer Pink/Dusty Cactus
+- Pure Platinum/Glacier Blue/Court Blue
+
+### Red Colorways:
+- Essential Gym Red
+- Essential Red
+- University Red (Valentine's Day - Jan 30)
+- Dark Team Red accents
+
+### Green Colorways:
+- Vintage Green
+- Illusion Green
+- Malachite
+- Lime Green Volt
+
+### Multi-Color/Neon:
+- Neon colorways
+- Multi-Color Iridescent
+
+## How to Check Wilmington Store Inventory Online
+
+Unfortunately, retail websites block automated inventory checking. However, you can:
+
+1. **Foot Locker:** Visit footlocker.com, search for Air Max 90, select size 11, click "Find in Store" and enter Wilmington NC zip code 28403
+2. **Hibbett:** Visit hibbett.com, browse Air Max 90s, select size 11, use "Check Store Availability" for Wilmington location
+3. **DICK'S:** Visit dickssportinggoods.com, search Air Max 90, filter size 11, check "Find in Store" for Wilmington locations
+
 ## Notes
 
 - No dedicated Nike retail store exists in Wilmington, NC
 - All listed retailers carry Nike Air Max products
-- Real-time inventory was not available through web search; calling stores is recommended for current stock
+- Retail websites block automated scraping; manual checking or calling required
 - Same-day pickup depends on current inventory at each location
+- **Best bet for pickup today:** Check eBay for "Ships today" listings or visit Independence Mall stores
+- **Best bet for delivery:** eBay has 2,971 size 11 options with fast shipping
